@@ -13,25 +13,6 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
-.option-btns {
-  width: 200px;
-}
-
-.udemy {
-  background-color: blueviolet;
-  color: #fff;
-}
-
-.other-online {
-  background-color: red;
-  color: #fff;
-}
-
-.books {
-  background-color: green;
-  color: #fff;
-}
-
 .navbar {
   -webkit-box-shadow: 2px 2px 5px #6b99c7;
           box-shadow: 2px 2px 5px #6b99c7;
